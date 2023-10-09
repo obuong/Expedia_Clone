@@ -40,7 +40,7 @@ To set up and run the Expedia Clone project locally, follow these steps:
 1. Clone the repository from GitHub:
 
    ```
-   git clone <repository_url>
+   git clone <https://github.com/obuong/Expedia_Clone.git>
    ```
 
 2. Navigate to the project directory:
